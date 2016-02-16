@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diestatutenbche02leipgoog_0171.png"; bbox 0 0 4038 6358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1449 2324 2367 2389">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1449 2324 2367 2389">
+     <span class='ocr_line' id='line_1_1' title="bbox 1449 2324 2367 2389; baseline 0.002 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1449 2324 1836 2387; x_wconf 85' lang='lat' dir='ltr'><strong>ZWEITER</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1870 2324 2367 2389; x_wconf 82' lang='lat' dir='ltr'><strong>ABSOHNI&#39;I&#39;P.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 727 2609 3071 2711">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 727 2609 3071 2711">
+     <span class='ocr_line' id='line_1_2' title="bbox 727 2609 3071 2711; baseline -0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 727 2614 961 2711; x_wconf 92' lang='lat' dir='ltr'><strong>DIE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1009 2610 1692 2710; x_wconf 91' lang='lat' dir='ltr'><strong>NATIONEN</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1747 2610 2025 2707; x_wconf 93' lang='lat' dir='ltr'><strong>UND</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2078 2610 2309 2710; x_wconf 88' lang='lat' dir='ltr'><strong>DIE</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2366 2609 3071 2711; x_wconf 84' lang='lat' dir='ltr'><strong>COLLEGIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1700 3048 2113 3063">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1700 3048 2113 3063">
+     <span class='ocr_line' id='line_1_3' title="bbox 1700 3048 2113 3063; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 1700 3048 2113 3063; x_wconf 55' lang='lat' dir='ltr'><strong>-·———-q-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

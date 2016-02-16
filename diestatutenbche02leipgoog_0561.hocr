@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./diestatutenbche02leipgoog_0561.png"; bbox 0 0 4038 6358; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1361 2584 2259 2650">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1361 2584 2259 2650">
+     <span class='ocr_line' id='line_1_1' title="bbox 1361 2584 2259 2650; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 1361 2588 1728 2650; x_wconf 79' lang='lat' dir='ltr'>VIERTER</span> <span class='ocrx_word' id='word_1_2' title='bbox 1765 2584 2259 2649; x_wconf 77' lang='lat' dir='ltr'><strong>ABSOHNITT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 683 2870 2933 2974">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 683 2870 2933 2974">
+     <span class='ocr_line' id='line_1_2' title="bbox 683 2870 2933 2974; baseline 0 -3"><span class='ocrx_word' id='word_1_3' title='bbox 683 2875 914 2972; x_wconf 88' lang='lat' dir='ltr'><strong>DIE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 963 2876 1294 2973; x_wconf 87' lang='lat' dir='ltr'><strong>DREI</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1347 2871 1886 2972; x_wconf 89' lang='lat' dir='ltr'>OBEREN</span> <span class='ocrx_word' id='word_1_6' title='bbox 1939 2870 2933 2974; x_wconf 84' lang='lat' dir='ltr'><strong>FACULTAETEN.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1607 3379 2014 3388">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1607 3379 2014 3388">
+     <span class='ocr_line' id='line_1_3' title="bbox 1607 3379 2014 3388; baseline 0.005 -2"><span class='ocrx_word' id='word_1_7' title='bbox 1607 3379 2014 3388; x_wconf 75' lang='lat'><strong>-—-—————--——</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
